@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="第 1 页" id="FJqc11oG0F_0Q5VlYXOH">
+    <mxGraphModel dx="719" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RwDWFxZn5hZqVpasnull-58" edge="1" parent="1" source="RwDWFxZn5hZqVpasnull-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="RwDWFxZn5hZqVpasnull-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-11" parent="1" style="whiteSpace=wrap;html=1;rounded=1;glass=0;shadow=1;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="更好的&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;自己&lt;/span&gt;&lt;div&gt;&lt;div&gt;更好的生活&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="400" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-32" edge="1" parent="1" source="RwDWFxZn5hZqVpasnull-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="RwDWFxZn5hZqVpasnull-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-34" edge="1" parent="1" source="RwDWFxZn5hZqVpasnull-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="RwDWFxZn5hZqVpasnull-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;" value="养好身体&lt;div&gt;养好心情&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="400" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-23" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;" value="积累经验" vertex="1">
+          <mxGeometry height="40" width="80" x="520" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-24" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;direction=west;" value="&lt;div&gt;提升学历&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="520" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-56" edge="1" parent="1" source="RwDWFxZn5hZqVpasnull-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="RwDWFxZn5hZqVpasnull-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-63" connectable="0" parent="RwDWFxZn5hZqVpasnull-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
+          <mxGeometry relative="1" x="-0.0039" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-40" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;" value="有钱有闲" vertex="1">
+          <mxGeometry height="40" width="80" x="640" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-54" edge="1" parent="1" source="RwDWFxZn5hZqVpasnull-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="RwDWFxZn5hZqVpasnull-40" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-50" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;" value="好&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;工作&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="640" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-52" edge="1" parent="1" source="RwDWFxZn5hZqVpasnull-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="RwDWFxZn5hZqVpasnull-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-64" connectable="0" parent="RwDWFxZn5hZqVpasnull-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
+          <mxGeometry relative="1" x="0.6195" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-51" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;legacyAnchorPoints=0;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="" vertex="1">
+          <mxGeometry height="60" width="20" x="600" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="目标" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="基石" vertex="1">
+          <mxGeometry height="30" width="60" x="350" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-67" edge="1" parent="1" source="RwDWFxZn5hZqVpasnull-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="RwDWFxZn5hZqVpasnull-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-66" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;shadow=1;" value="运气.&amp;nbsp; 苦寻" vertex="1">
+          <mxGeometry height="40" width="80" x="640" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="关键" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="RwDWFxZn5hZqVpasnull-69" parent="1" style="whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="2万天生命体验卡" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
